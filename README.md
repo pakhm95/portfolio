@@ -6,13 +6,11 @@
 
 <head>
 
-<title>    </title>
-
 </head>
 
 <body>
 
- <a href="https://github.com/pakhm95/portfolio_page/edit/master/hello.html"> 1.버튼 </a>
+ <a href="https://pakhm95.github.io/portfolio_page/hello.html"> 1.버튼 </a>
 
 </body>
 
