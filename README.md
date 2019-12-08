@@ -10,7 +10,7 @@
 
 <body>
 
- <a href="https://pakhm95.github.io/portfolio_page/hello.html"> 1.버튼 </a>
+ 1.<a href="https://pakhm95.github.io/portfolio_page/hello.html">hello.html</a>
 
 </body>
 
